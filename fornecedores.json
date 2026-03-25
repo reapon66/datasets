@@ -89,6 +89,15 @@
       "telefone": "(91) 99876-5432",
       "cidade": "Belém",
       "estado": "PA"
+    },
+    {
+      "id": 11,
+      "nome": "Sla vei",
+      "cnpj": "01.234.999/0001-99",
+      "email": "sla@industria.com",
+      "telefone": "(91) 8888-5432",
+      "cidade": "Mombaça",
+      "estado": "CE"
     }
   ]
 }
